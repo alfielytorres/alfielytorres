@@ -1,5 +1,5 @@
 # 👋 Hello, I am Alfie
-- 🌱 I’m currently learning Kotlin for Android, Python 3, ES6
+- 🌱 I’m currently learning Kotlin for Android, Algorithms & Data Structures, ES6
 - 📫 How to reach me: ator0002@student.monash.edu
 
 <p align="center">
