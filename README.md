@@ -1,5 +1,9 @@
 # 👋 Hello, I am Alfie
-- 🌱 I’m currently learning Algorithms & Data Structures, NodeJS, Kotlin for Android
+- 🌱 I’m currently learning 
+    - Algorithms & Data Structures
+    - NodeJS
+    - Mathematics for Machine Learning and 
+    - Kotlin for Android
 - 📫 How to reach me: ator0002@student.monash.edu
 
 <p align="center">
